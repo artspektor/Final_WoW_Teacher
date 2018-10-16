@@ -26,7 +26,7 @@ header{
 	justify-content: center;
 	display: flex;
 	width: 100%;
-	background: #2d4c9c;
+	background: #1d3362;
 }
 
 .bg-light {
@@ -48,5 +48,10 @@ header{
 	justify-content: center;
 	display: flex;
 	width: 100%;
-	background: #2d4c9c;
+	background: #1d3362;
+}
+
+.text-link{
+	color: red;
+	font-weight: 900;
 }
