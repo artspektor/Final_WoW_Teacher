@@ -29,8 +29,20 @@ header{
 	background: #1d3362;
 }
 
+.container{
+	background: white;
+}
+
 .bg-light {
     background-color: transparent !important;
+}
+
+.dropdown-menu{
+	background: #1d3362;
+}
+
+.dropdown-item{
+	color: white;
 }
 
 .nav-link {
@@ -54,4 +66,48 @@ header{
 .text-link{
 	color: red;
 	font-weight: 900;
+}
+
+.text-link:hover{
+	color: #1d3362;
+}
+
+footer{
+	justify-content: center;
+	display: flex;
+	width: 100%;
+	height: 70px;
+	background: #1d3362;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: white;
+	font-size: 14px;
+	font-weight: 600;
+	margin-top: 25px;
+}
+
+footer span{
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.photodonnu{
+	display: block;
+	text-align: center;
+}
+
+.photodonnu p{
+	text-align: center;
+}
+
+.photodonnu img{
+	width: 100%;
+	height: auto;
+}
+
+.photodonnu span{
+	text-align: center;
 }
