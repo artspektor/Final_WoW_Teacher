@@ -94,9 +94,15 @@ footer span{
 	padding-right: 15px;
 }
 
+footer img{
+	width: 50px;
+	height: 49px;
+}
+
 .photodonnu{
 	display: block;
 	text-align: center;
+	margin-bottom: 20px;
 }
 
 .photodonnu p{
@@ -115,18 +121,31 @@ footer span{
 	font-weight: 700;
 }
 
-.lol{
+.pech{
 	display: block;
 	text-align: center;
 }
 
-.lol img{
+.pech img{
 	width: 250px;
 	height: auto;
 }
 
-.lol span{
+.pech span{
 	text-align: center;
 	color: #1d3362;
-	font-weight: 16px;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.pech a{
+	text-decoration: none;
+}
+
+.pech img:hover{
+	opacity: 0.25;
+}
+
+.pech span:hover{
+	color: red;
 }
