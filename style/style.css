@@ -72,32 +72,6 @@ header{
 	color: #1d3362;
 }
 
-footer{
-	justify-content: center;
-	display: flex;
-	width: 100%;
-	height: 70px;
-	background: #1d3362;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-right: 20px;
-	padding-left: 20px;
-	color: white;
-	font-size: 14px;
-	font-weight: 600;
-	margin-top: 25px;
-}
-
-footer span{
-	padding-top: 15px;
-	padding-left: 15px;
-	padding-right: 15px;
-}
-
-footer img{
-	width: 50px;
-	height: 49px;
-}
 
 .photodonnu{
 	display: block;
@@ -148,4 +122,31 @@ footer img{
 
 .pech span:hover{
 	color: red;
+}
+
+footer{
+	justify-content: center;
+	display: flex;
+	width: 100%;
+	height: 70px;
+	background: #1d3362;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: white;
+	font-size: 14px;
+	font-weight: 600;
+	margin-top: 25px;
+}
+
+footer span{
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+footer img{
+	width: 50px;
+	height: 49px;
 }
