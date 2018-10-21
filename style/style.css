@@ -1,5 +1,4 @@
-/* Preloader 
-
+/* 
 .preloader {
 	position: fixed;
 	z-index: 9999;
@@ -22,32 +21,38 @@
 
 */
 
-header{
-	justify-content: center;
-	display: flex;
-	width: 100%;
-	background: #1d3362;
+header {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    background: #1d3362;
 }
 
-.container{
-	background: white;
+.container {
+    background: white;
+}
+
+.logo {
+	width: 140px;
+	height: 50px;
+	margin-right: 50px;
 }
 
 .bg-light {
     background-color: transparent !important;
 }
 
-.dropdown-menu{
-	background: #1d3362;
+.dropdown-menu {
+    background: #1d3362;
 }
 
-.dropdown-item{
-	color: white;
+.dropdown-item {
+    color: white;
 }
 
 .nav-link {
     color: white !important;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 600;
     line-height: 5px;
 }
@@ -56,97 +61,107 @@ header{
     color: white !important;
 }
 
-.carousel{
-	justify-content: center;
-	display: flex;
-	width: 100%;
-	background: #1d3362;
+.carousel {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    background: #1d3362;
 }
 
-.text-link{
-	color: red;
-	font-weight: 900;
-}
 
-.text-link:hover{
+.text{
 	color: #1d3362;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.text-link {
+    color: red;
+    font-weight: 900;
 }
 
 
-.photodonnu{
-	display: block;
-	text-align: center;
-	margin-bottom: 20px;
+.text-link:hover {
+    color: #1d3362;
+    text-decoration: none;
 }
 
-.photodonnu p{
-	text-align: center;
+
+.photodonnu {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
-.photodonnu img{
-	width: 100%;
-	height: auto;
+.photodonnu p {
+    text-align: center;
 }
 
-.photodonnu span{
-	text-align: center;
-	color: #1d3362;
-	font-size: 16px;
-	font-weight: 700;
+.photodonnu img {
+    width: 100%;
+    height: auto;
 }
 
-.pech{
-	display: block;
-	text-align: center;
+.photodonnu span {
+    text-align: center;
+    color: #1d3362;
+    font-size: 16px;
+    font-weight: 700;
 }
 
-.pech img{
-	width: 250px;
-	height: auto;
+.pech {
+    display: block;
+    text-align: center;
 }
 
-.pech span{
-	text-align: center;
-	color: #1d3362;
-	font-size: 16px;
-	font-weight: 700;
+.pech img {
+    width: 250px;
+    height: auto;
 }
 
-.pech a{
-	text-decoration: none;
+.pech span {
+    text-align: center;
+    color: #1d3362;
+    font-size: 16px;
+    font-weight: 700;
 }
 
-.pech img:hover{
-	opacity: 0.25;
+.pech a {
+    text-decoration: none;
 }
 
-.pech span:hover{
-	color: red;
+.pech img:hover {
+    opacity: 0.25;
 }
 
-footer{
-	justify-content: center;
-	display: flex;
-	width: 100%;
-	height: 70px;
-	background: #1d3362;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-right: 20px;
-	padding-left: 20px;
-	color: white;
-	font-size: 14px;
-	font-weight: 600;
-	margin-top: 25px;
+.pech span:hover {
+    color: red;
 }
 
-footer span{
-	padding-top: 15px;
-	padding-left: 15px;
-	padding-right: 15px;
+footer {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 70px;
+    background: #1d3362;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 25px;
+    text-align: center;
 }
 
-footer img{
-	width: 50px;
-	height: 49px;
+footer span {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer img {
+    width: 50px;
+    height: 49px;
 }
