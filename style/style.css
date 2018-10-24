@@ -30,6 +30,14 @@ header {
 
 .container {
     background: white;
+    display: contents;
+}
+
+.content {
+    margin-left: 85px;
+    margin-right: 85px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .logo {
