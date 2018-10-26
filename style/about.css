@@ -1,0 +1,12 @@
+.about {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.about span {
+	color: red;
+}
+
+.about span:hover {
+	color: green;
+}

@@ -33,6 +33,7 @@ header {
     display: contents;
 }
 
+
 .content {
     margin-left: 85px;
     margin-right: 85px;
@@ -72,8 +73,8 @@ header {
 .carousel {
     justify-content: center;
     display: flex;
-    width: 100%;
-    background: #1d3362;
+    width: 95%;
+    background: transparent;
 }
 
 

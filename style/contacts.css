@@ -1,28 +1,6 @@
-.university {
- 	display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 60px;
-    height: 60px;
-    background-color: #f2f2f2;
-    border-radius: 50%;
-    margin-right: 10px;
-    cursor: pointer;
-}
-
-.more_information > .info_line:nth-child(even) {
-    background: #f2f2f2;
-}
-
-.info_line span{
-    font-size: 14px; 
-}
-
-.info_line span:first-child{
-    display: inline-block;
-    font-weight: 600;
-    padding: 15px;
-    margin-right: 15px;
-    width: 200px;
-    border-right: 1px solid #dedede;
+.map {
+	border-top: 4px solid #1d3362;
+	padding-top: 25px;
+	border-bottom: 4px solid #1d3362;
+	padding-bottom: 25px;
 }
