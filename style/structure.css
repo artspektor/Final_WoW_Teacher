@@ -1,4 +1,24 @@
+.carousel {
+    justify-content: center;
+    display: flex;
+    width: 95%;
+    background: transparent;
+}
+
 .carousel-item {
 	width: 95%;
 	height: 300px;
+
+}
+
+
+.f-link {
+	color: red;
+	font-weight: 900;
+	text-decoration: none;
+}
+
+.f-link:hover {
+    color: #1d3362;
+    text-decoration: none;
 }
