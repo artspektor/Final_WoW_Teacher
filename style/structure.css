@@ -6,16 +6,16 @@
 }
 
 .carousel-item {
-	width: 95%;
-	height: 300px;
+    width: 95%;
+    height: 300px;
 
 }
 
 
 .f-link {
-	color: red;
-	font-weight: 900;
-	text-decoration: none;
+    color: red;
+    font-weight: 900;
+    text-decoration: none;
 }
 
 .f-link:hover {

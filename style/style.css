@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,500,600,700,800&subset=cyrillic,cyrillic-ext,latin-ext');
 
-body{
+body {
     font-family: 'EB Garamond', serif;
 }
 
@@ -25,9 +25,9 @@ header {
 }
 
 .logo {
-	width: 140px;
-	height: 50px;
-	margin-right: 50px;
+    width: 140px;
+    height: 50px;
+    margin-right: 50px;
 }
 
 .bg-light {
@@ -62,9 +62,9 @@ header {
 }
 
 
-.text{
-	color: #1d3362;
-	font-size: 18px;
+.text {
+    color: #1d3362;
+    font-size: 18px;
     font-weight: 500;
     text-decoration: none;
 }
@@ -81,7 +81,7 @@ header {
     text-decoration: none;
 }
 
-.text-h1{
+.text-h1 {
     font-size: 24px;
     font-weight: 900;
     color: #1d3362;
