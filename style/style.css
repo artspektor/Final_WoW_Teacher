@@ -79,6 +79,11 @@ header {
     text-decoration: none;
 }
 
+.text-h1{
+    font-size: 24px;
+    font-weight: 800;
+    color: #1d3362;
+}
 
 .photodonnu {
     display: block;

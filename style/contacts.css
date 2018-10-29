@@ -4,3 +4,16 @@
 	border-bottom: 4px solid #1d3362;
 	padding-bottom: 25px;
 }
+
+.img-corp{
+	width: 350px;
+	height: auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.waytous {
+	width: 100%;
+}
