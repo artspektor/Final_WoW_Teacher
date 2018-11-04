@@ -1,0 +1,18 @@
+.navigations {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+}
+
+.nl-js {
+    color: red !important;
+}
+
+.container p {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+    color: #1d3362;
+}
