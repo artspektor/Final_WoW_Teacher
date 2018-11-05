@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,500,600,700,800&subset=cyrillic,cyrillic-ext,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900,900i&subset=cyrillic-ext');
 
 body {
-    font-family: 'EB Garamond', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
