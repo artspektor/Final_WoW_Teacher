@@ -16,3 +16,32 @@
     font-weight: 600;
     color: #1d3362;
 }
+
+.container span {
+    color: red;
+}
+
+.container ul li {
+    color: #1d3362;
+    font-size: 18px;
+}
+
+.container span:hover{
+    color: brown;
+}
+
+.balance{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.balance p {
+    text-align: center;
+}
+
+.balance img {
+    width: 900px;
+    height: auto;
+}
