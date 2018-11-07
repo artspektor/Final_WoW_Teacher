@@ -10,3 +10,10 @@
 .about span:hover {
 	color: maroon;
 }
+
+.nomen {
+	color: red;
+	font-size: 36px;
+	text-align: center;
+	font-family: 'Crete Round', serif;
+}
