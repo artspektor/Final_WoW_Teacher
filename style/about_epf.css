@@ -8,6 +8,7 @@
 
 .nl-js {
     color: red !important;
+    cursor: pointer;
 }
 
 .container p {

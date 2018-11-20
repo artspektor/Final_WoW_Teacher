@@ -10,17 +10,51 @@
 	height: auto;
 	display: block;
 	opacity: 1;
-	transition: transform 550ms ease-out;
-	transform: scale(1;1);
+    -webkit-transform: scale(1, 1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+    -moz-transform: scale(1, 1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 550ms;
 }
 
 .img-corp:hover {
-	transition: transform 550ms ease-out;
-	transform: scale(1;1);
+    -webkit-transform: scale(1.2, 1.2);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+    -moz-transform: scale(1.2, 1.2);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 550ms;
 }
 
 .text-center {
 	text-align: center;
+}
+
+.socialnet {
+	display: inline-flex;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.socialnet span {
+	padding-left: 10px;
+}
+
+i {
+	font-size: 25px;
+}
+
+.iface {
+	color: #1d3362;
+}
+
+.itwit{
+	color: cornflowerblue;
+}
+
+.iyout{
+	color: red;
 }
 
 .waytous {
